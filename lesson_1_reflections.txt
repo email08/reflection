@@ -1,0 +1,8 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+using FC command on windows operating systems and using diff command on unix operating systems.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Having a version control for my code will give me access of all my previous saved code to go back and in any point of time of the code and see all the changes.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+Git will give more control on file history and it will allow user to decide when they wanr to commit. However, Google Docs save version automatically which will have tons of version that may not be useful.
