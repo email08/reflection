@@ -6,3 +6,16 @@ Having a version control for my code will give me access of all my previous save
 
 What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
 Git will give more control on file history and it will allow user to decide when they wanr to commit. However, Google Docs save version automatically which will have tons of version that may not be useful.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+	Git allowing user to save multiple files in one commit.
+
+How can you use the commands git log and git diff to view the history of files?
+	Git log comamnd shows all the commit history with the message which user can identify was changes has been made with that commit and git diff will show the what lines were added or deleted in particular commit.
+
+How might using version control make you more confident to make changes that
+could break something?
+	using version contol geve us oppurtunity to rollout our work in case of any wrong commits.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+	I would like to try git to keep track on my all work devlopment history and can rollout my changes for any previous commits.
